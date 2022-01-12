@@ -17,7 +17,7 @@
 ![SpringData](https://img.shields.io/badge/-Spring_Data-116062?style=for-the-badge&logo=Spring1Data&logoColor=efd81d) 
 <br>
 
-**Programming tool**<br>
+**Programming tools**<br>
 
 ![Jetbrains_IDE](https://img.shields.io/badge/-Jetbrains_IDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
 ![GitHub](https://img.shields.io/badge/-GitHub-3b444b?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
